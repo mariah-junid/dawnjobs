@@ -3,7 +3,7 @@ import { jobs } from './jobs'
 function App() {
   return (
     <div>
-      <h1>Job Board</h1>
+      <h1>Job Board Test</h1>
 
       {jobs.map(job => (
         <div key={job.id}>

@@ -1,4 +1,4 @@
-import type { Job } from "../data/jobs";
+import { Job } from "@/data/jobs";
 
 type JobCardProps = {
   job: Job;
